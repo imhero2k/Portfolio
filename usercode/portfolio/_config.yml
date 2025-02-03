@@ -1,3 +1,6 @@
 title: My Jekyll Site
 description: A simple site using Jekyll and GitHub Pages
 theme: minima
+exclude:
+  - node_modules
+
